@@ -43,7 +43,8 @@ if __name__ == '__main__':
 
     print(moneySpent)
 
-    if moneySpent == 622830:
+    if moneySpent == 622830:  # I knew the answer so it is for cross checking as per the file
+                                    ## for file new.txt answer is 9 feel free to play around
         print("Correct!")
     else:
         print("Mission Failed!")
